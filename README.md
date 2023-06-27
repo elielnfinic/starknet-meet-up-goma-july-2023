@@ -35,6 +35,11 @@ Vous pouvez aller loin en installant les outils suivants :
 
 Si vous arrivez à créer un  projet Cairo avant l'event, demandez moi un cadeau spécial 😜 avant le début du meet-up. 
 
+# Pour les nerds 
+
+Salut les nerds!  
+Pour vous, ajoutez également à la liste de lecture : la théorie des nombres, l'arithmetique modulaire, la théorie des groupes et les champs.
+
 # Posez des questions 
 
 Vous pouvez poser toutes les questions que vous avez dans le groupe Telegram(Starknet Congo) ou bien m'écrire sur Telegram(@elielmathe).
