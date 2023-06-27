@@ -7,3 +7,5 @@ Ce repos vous permet de vous preparer au meet-up de Starknet en ville de Goma, R
 Je suis très content de vous acceuillir à la première recontre des développeurs congolais pour parler de Starknet.
 
 
+# Comment tirer parfaitement profit de cete rencontre ? 
+
