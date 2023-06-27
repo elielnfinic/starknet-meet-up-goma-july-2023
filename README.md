@@ -2,7 +2,7 @@
 
 Salut 👋.
 
-Ce repos vous permet de vous preparer au meet-up de Starknet en ville de Goma, République Démocratique du Congo 🇨🇩
+Ce repo vous permet de vous preparer au meet-up de Starknet en ville de Goma, République Démocratique du Congo 🇨🇩
 
 Je suis très content de vous acceuillir à la première recontre des développeurs congolais pour parler de Starknet.
 
@@ -34,6 +34,11 @@ Vous pouvez aller loin en installant les outils suivants :
 - [Cairo](https://cairo-book.github.io/ch01-01-installation.html) ( pour les plus curieux 🤣  )
 
 Si vous arrivez à créer un  projet Cairo avant l'event, demandez moi un cadeau spécial 😜 avant le début du meet-up. 
+
+# Pour les nerds 
+
+Salut les nerds!  
+Pour vous, ajoutez également à la liste de lecture : la théorie des nombres, l'arithmetique modulaire, la théorie des groupes et les champs.
 
 # Posez des questions 
 
